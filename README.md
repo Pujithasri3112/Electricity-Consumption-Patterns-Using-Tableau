@@ -1,76 +1,85 @@
-⚡ Electricity Consumption Analysis Dashboard
-📌 Project Overview
+# ⚡ Electricity Consumption Analysis Dashboard
+
+## 📌 Project Overview
 
 This project presents an interactive data visualization dashboard built using Tableau to analyze electricity consumption patterns across Indian states and regions. The dashboard transforms raw consumption data into meaningful insights through maps, bar charts, trend analysis, and comparative visualizations. It enables users to explore yearly, quarterly, and regional variations, including the impact of the COVID-19 lockdown on electricity usage.
 
-🎯 Objectives
+---
 
-Analyze state-wise and region-wise electricity consumption
+## 🎯 Objectives
 
-Compare yearly consumption trends (2019 vs 2020)
+- Analyze state-wise and region-wise electricity consumption  
+- Compare yearly consumption trends (2019 vs 2020)  
+- Study quarterly and month-wise variations  
+- Evaluate electricity usage before and after lockdown  
+- Identify top and bottom performing states  
 
-Study quarterly and month-wise variations
+---
 
-Evaluate electricity usage before and after lockdown
+## 📊 Key Features
 
-Identify top and bottom performing states
+- 🗺️ State-wise Consumption Map  
+- 📈 Month-wise Trend Analysis  
+- 📊 Year-wise Usage Comparison  
+- 🥧 Region-wise Distribution  
+- 🔄 Before vs After Lockdown Comparison  
+- 🏆 Top & Bottom States Ranking  
+- 🎛️ Interactive Year Filters  
 
-📊 Key Features
+---
 
-🗺️ State-wise Consumption Map
+## 🛠️ Tools & Technologies Used
 
-📈 Month-wise Trend Analysis
+- **Tableau** – Data visualization and dashboard creation  
+- **Microsoft Excel / CSV Dataset** – Data source  
+- **GitHub** – Project documentation and version control  
 
-📊 Year-wise Usage Comparison
+---
 
-🥧 Region-wise Distribution
+Electricity-Consumption-Dashboard/
+│
+├── README.md
+├── Dashboard/
+│ └── Electricity_Consumption_Dashboard.twbx
+├── Dataset/
+│ └── consumption_data.csv
+└── Images/
+└── dashboard_screenshot.png
 
-🔄 Before vs After Lockdown Comparison
 
-🏆 Top & Bottom States Ranking
+---
 
-🎛️ Interactive Year Filters
-
-🛠️ Tools & Technologies Used
-
-Tableau – Data visualization and dashboard creation
-
-Microsoft Excel / CSV Dataset – Data source
-
-GitHub – Project documentation and version control
-
-📂 Dashboard Insights
+## 📈 Dashboard Insights
 
 The dashboard helps answer the following:
 
-Which states have the highest electricity consumption?
+- Which states have the highest electricity consumption?  
+- How did electricity usage change during lockdown?  
+- What are the yearly and quarterly trends?  
+- Which regions contribute most to overall consumption?  
 
-How did electricity usage change during lockdown?
+---
 
-What are the yearly and quarterly trends?
+## 🚀 How to Use
 
-Which regions contribute most to overall consumption?
+1. Download the `.twbx` file from the Dashboard folder.
+2. Open using Tableau Desktop or Tableau Public.
+3. Use filters to switch between years.
+4. Explore interactive charts and insights.
 
-🚀 How to Use
+---
 
-Download the Tableau workbook file (.twbx).
+## 🔮 Future Enhancements
 
-Open using Tableau Desktop or Tableau Public.
+- Integration of real-time electricity data  
+- Predictive analytics for future demand forecasting  
+- AI-based anomaly detection  
+- Web deployment for wider accessibility  
 
-Use filters to switch between years.
+---
 
-Explore interactive charts and insights.
+## 👩‍💻 Author
 
-📌 Future Enhancements
+**Pujitha Adabala**  
 
-Integration of real-time electricity data
-
-Predictive analytics for future demand forecasting
-
-AI-based anomaly detection
-
-Web deployment for wider accessibility
-
-👩‍💻 Author
-
-Pujitha Adabala
+---
